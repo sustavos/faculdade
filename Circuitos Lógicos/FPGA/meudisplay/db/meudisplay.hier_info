@@ -1,0 +1,38 @@
+|meudisplay
+A => Sa~0.IN0
+A => Sd~1.IN1
+A => Sf~1.IN1
+A => Sg~1.IN1
+B => Sa~1.IN0
+B => Sc~0.IN0
+B => Sd~6.IN0
+B => Sf~3.IN0
+B => Sg~0.IN0
+B => Sb~1.IN1
+B => Sd~0.IN0
+B => Sd~2.IN0
+C => Sa~0.IN1
+C => Sb~0.IN0
+C => Sd~2.IN1
+C => Sd~4.IN0
+C => Sg~0.IN1
+C => Sc~0.IN1
+C => Sd~6.IN1
+C => Sf~0.IN0
+D => Sa~1.IN1
+D => Sb~0.IN1
+D => Sc~1.IN1
+D => Sd~7.IN1
+D => Sd~0.IN1
+D => Sd~4.IN1
+D => Sf~0.IN1
+D => Sf~3.IN1
+Sa <= Sa~2.DB_MAX_OUTPUT_PORT_TYPE
+Sb <= Sb~1.DB_MAX_OUTPUT_PORT_TYPE
+Sc <= Sc~1.DB_MAX_OUTPUT_PORT_TYPE
+Sd <= Sd~8.DB_MAX_OUTPUT_PORT_TYPE
+Se <= Se~0.DB_MAX_OUTPUT_PORT_TYPE
+Sf <= Sf~4.DB_MAX_OUTPUT_PORT_TYPE
+Sg <= Sg~2.DB_MAX_OUTPUT_PORT_TYPE
+
+
